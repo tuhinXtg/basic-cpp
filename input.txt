@@ -1,2 +1,4 @@
 3
-3 1 2
+Salman 1 A 80 8
+Atiq 2 A 95 8
+Afridi 3 A 95 8

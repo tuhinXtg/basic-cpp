@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-    int t;
+    int t;git pull origin main
+
     cin >> t;
     while (t--)
     {

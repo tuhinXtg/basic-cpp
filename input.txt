@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-monkey
-i love flower
-=======
-3
-Salman 1 A 80 8
-Atiq 2 A 95 8
-Afridi 3 A 95 8
->>>>>>> fe6ee30d3117f57ed191882920018bafd7b3614b
+2
+1 n
+5 O
